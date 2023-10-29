@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ri_simohamed" target="blank"><img src="https://img.shields.io/twitter/follow/ri_simohamed?logo=twitter&style=for-the-badge" alt="ri_simohamed" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱  Always learning new things, ready for discussions, and making new projects 🤖.
 
 - 👨‍💻 All of my projects are available at [https://si-mohamed-ri.netlify.app/](https://si-mohamed-ri.netlify.app/)
 
-- 💬 Ask me about **Web development, MERN**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **si.mohamedrami1902@gmail.com**
 
