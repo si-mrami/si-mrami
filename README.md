@@ -8,8 +8,6 @@
 
 - 🌱  Always learning new things, ready for discussions, and making new projects 🤖.
 
-- 👨‍💻 All of my projects are available at [https://si-mohamed-ri.netlify.app/](https://si-mohamed-ri.netlify.app/)
-
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **si.mohamedrami1902@gmail.com**
