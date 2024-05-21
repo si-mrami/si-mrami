@@ -1,3 +1,8 @@
+
+![contributions](https://user-images.githubusercontent.com/69278312/213488373-97e791d5-6faf-401f-b568-bb7cef990226.svg)
+
+
+
 <h1 align="center">Hi 👋, I'm Mohamed Rami</h1>
 <h3 align="center">Full Stack Web Devloper</h3>
 <img aling="right" alt="Coding" width="700" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvW95_OXxQq3bpYTTdLG4uAqUBBc-rOSRrg&usqp=CAU">
