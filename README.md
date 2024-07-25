@@ -40,7 +40,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/themes/nginx/assets/images/logo.svg" alt="nginx" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="[https://www.nginx.com/wp-content/themes/nginx/assets/images/logo.svg](https://imgs.search.brave.com/LmPO1B-9W38YRjGRVLyjAU3HY_UVynFUuQBwQlHyQ0M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9OZ2lueC9O/Z2lueC1Mb2dvLndp/bmUuc3Zn)" alt="nginx" width="40" height="40"/> </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="40" height="40"/> </a>
 </p>
