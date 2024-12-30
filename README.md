@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web & Mobile development**
 
-- 📫 How to reach me: **si.mohamedrami1902@gmail.com**
+- 📫 How to reach me: **simrami.dev@gmail.com**
 
 - ⚡ Fun fact: **I once built a robot that could make coffee, but it only worked if you danced while you waited.**
 
