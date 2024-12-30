@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/ri_simohamed" target="blank"><img src="https://img.shields.io/twitter/follow/ri_simohamed?logo=twitter&style=for-the-badge" alt="ri_simohamed" /></a> </p>
 
-- 🌱 Always learning new things, ready for discussions, and making new projects 🤖.
+- Always learning new things, ready for discussions, and making new projects 🤖.
 
 - 💬 Ask me about **Web & Mobile development**
+
+- 👨‍💻 I'm a Full Stack Developer passionate about creating dynamic and scalable applications.
 
 - 📫 How to reach me: **simrami.dev@gmail.com**
 
