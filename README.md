@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **simrami.dev@gmail.com**
 
-- - 🌐 My Website: **[mrami.dev](https://mrami.online)**
+- - 🌐 My Website: **[mrami.online](https://mrami.online)**
 
 - ⚡ Fun fact: **I once built a robot that could make coffee, but it only worked if you danced while you waited.**
 
